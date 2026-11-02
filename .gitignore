@@ -1,0 +1,23 @@
+# 音视频保留在个人资料库，仓库记录来源链接
+*.mp3
+*.wav
+*.flac
+*.m4a
+*.ogg
+*.mp4
+*.mkv
+*.webm
+*.mov
+*.zip
+*.7z
+*.rar
+
+# 本机文件与凭据
+.DS_Store
+Thumbs.db
+Desktop.ini
+.env
+.env.*
+*.pem
+*.key
+__pycache__/

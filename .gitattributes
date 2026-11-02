@@ -1,0 +1,5 @@
+# 正文原稿首次导入保留字节，避免隐式改换行
+*.txt -text -whitespace
+*.md text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
