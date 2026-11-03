@@ -9,7 +9,7 @@
     "erguang",
     "Slap"
   ],
-  "entry_count": 23,
+  "entry_count": 24,
   "status_note": "人工转录工作稿，未知来源和演出信息为 null；检索简称不等于核实后的正式曲名。",
   "songs": [
     {
@@ -289,6 +289,18 @@
       "source_url": null,
       "status": "draft",
       "notes_path": "考据/西游降魔十爱神_日期待考_版本二.md"
+    },
+    {
+      "title": "苏小三十八叹",
+      "artist": "耳光乐队",
+      "path": "歌词/苏小三十八叹.txt",
+      "version_label": "苏小三十八叹（日期待考，人工稿待校对）",
+      "search_aliases": [],
+      "performance_date": null,
+      "performance_location": null,
+      "source_url": null,
+      "status": "draft",
+      "notes_path": "考据/苏小三十八叹.md"
     }
   ]
 }
