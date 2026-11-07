@@ -9,7 +9,7 @@
     "erguang",
     "Slap"
   ],
-  "entry_count": 24,
+  "entry_count": 25,
   "status_note": "人工转录工作稿，未知来源和演出信息为 null；检索简称不等于核实后的正式曲名。",
   "songs": [
     {
@@ -301,6 +301,18 @@
       "source_url": null,
       "status": "draft",
       "notes_path": "考据/苏小三十八叹.md"
+    },
+    {
+      "title": "獾知县十八奶",
+      "artist": "耳光乐队",
+      "path": "歌词/18摸/獾知县十八奶.txt",
+      "version_label": "獾知县十八奶（日期待考，人工稿待校对）",
+      "search_aliases": [],
+      "performance_date": null,
+      "performance_location": null,
+      "source_url": null,
+      "status": "draft",
+      "notes_path": "考据/獾知县十八奶.md"
     }
   ]
 }
